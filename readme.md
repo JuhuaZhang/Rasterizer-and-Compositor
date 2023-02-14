@@ -21,32 +21,26 @@ Note: The text files are in the `reference` folder.
 - [LodePNG](https://lodev.org/lodepng/), which already included in the file
 
 ## Usage
-    ```sh
+```sh
     make build
     make run file=$filename # no space between "=", mp1xxx.txt
-    ```
+```
 
 ## Examples
 
 ### Basic Triangles
 
-<img src="./generated/indexing.png"  width="30%">
-
-![tri1](./generated/tri1.png) ![tri2](./generated/tri2.png)
+<img src="./generated/indexing.png"  width="10%"> <img src="./generated/tri1.png"  width="10%"> <img src="./generated/tri2.png"  width="10%"> 
 
 ### Depth Image
-
-![depth](./generated/depth.png)
+<img src="./generated/depth.png"  width="10%"> 
 
 ### Frustum:
-
-![frustum](./generated/frustum.png)
+<img src="./generated/frustum.png"  width="10%"> 
 
 ### sRGB
-
-![srgb](./generated/srgb.png)
+<img src="./generated/srgb.png"  width="10%"> 
 
 ### Line and Point
-
-![point](./generated/point.png) ![point](./generated/line.png)
+<img src="./generated/point.png"  width="10%"> <img src="./generated/line.png"  width="10%"> 
 
