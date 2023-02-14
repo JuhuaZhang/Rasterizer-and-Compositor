@@ -30,7 +30,7 @@ Note: The text files are in the `reference` folder.
 
 ### Basic Triangles
 
-<img src="./generated/indexing.png"  width="10%"> <img src="./generated/tri1.png"  width="10%"> <img src="./generated/tri2.png"  width="10%"> 
+<img src="./generated/indexing.png"  width="5%"> <img src="./generated/tri1.png"  width="5%"> <img src="./generated/tri2.png"  width="5%"> 
 
 ### Depth Image
 <img src="./generated/depth.png"  width="10%"> 
