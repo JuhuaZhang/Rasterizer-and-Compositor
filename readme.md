@@ -30,7 +30,9 @@ Note: The text files are in the `reference` folder.
 
 ### Basic Triangles
 
-![indexing](./generated/indexing.png) ![tri1](./generated/tri1.png) ![tri2](./generated/tri2.png)
+<img src="./generated/indexing.png"  width="30%">
+
+![tri1](./generated/tri1.png) ![tri2](./generated/tri2.png)
 
 ### Depth Image
 
