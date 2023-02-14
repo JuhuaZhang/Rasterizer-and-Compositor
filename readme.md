@@ -11,7 +11,7 @@ The program can rasterizes triangles, lines and points.
     - Frustum clipping: Perform clipping on each primitive befroe rendering.
     
  - Rasterizing lines, it use [Bresenham's line algorithm](https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm). Drawing an 8-connect line between the two given vertices.
- 
+
  - Rasterizing points. Filling all pixels in a given square. Support depth buffer.
 
 Note: The text files are in the `reference` folder.
@@ -28,4 +28,23 @@ Note: The text files are in the `reference` folder.
 
 ## Examples
 
+### Basic Triangles
+
+![indexing](./generated/indexing.png) ![tri1](./generated/tri1.png) ![tri2](./generated/tri2.png)
+
+### Depth Image
+
+![depth](./generated/depth.png)
+
+### Frustum:
+
+![frustum](./generated/frustum.png)
+
+### sRGB
+
+![srgb](./generated/srgb.png)
+
+### Line and Point
+
+![point](./generated/point.png) ![point](./generated/line.png)
 
